@@ -7,7 +7,7 @@
 
 ## 🧩 Why This Exists
 
-As of now, the default SellAuth embed (using `https://api-internal.sellauth.com/v1/checkout`) is **broken** since its suspected for phising atm.  
+As of now, the default SellAuth embed (which uses https://api-internal.sellauth.com/v1/checkout) is broken, as it is currently suspected of being used for phishing.
 This repository provides a workaround by proxying the SellAuth API via a Cloudflare Worker — restoring full functionality on your site.
 
 ---
