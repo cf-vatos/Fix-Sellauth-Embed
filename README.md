@@ -21,7 +21,7 @@ This repository provides a workaround by proxying the SellAuth API via a Cloudfl
 
 ## 🚀 Setup Instructions
 
-### 1. Create a Cloudflare Worker (Step to step guide: cloudflareworker.md)
+### 1. Create a Cloudflare Worker (Step to step guide: 1[cloudflare-worker.md](cloudflare-worker.md)
 2. Replace the default code with the following:
 
 ```js
