@@ -10,6 +10,11 @@
 As of now, the default SellAuth embed (which uses https://api-internal.sellauth.com/v1/checkout) is broken, as it is currently suspected of being used for phishing.
 This repository provides a workaround by proxying the SellAuth API via a Cloudflare Worker — restoring full functionality on your site.
 
+Thank chatgpt ^^^
+
+I did it cuz of this one indian that wanted me to pay for it 😭
+![indian](./cloudflare-worker/indian.png)
+
 ---
 
 ## ✅ Requirements
